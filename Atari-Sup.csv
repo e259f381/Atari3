@@ -1,0 +1,514 @@
+Algorithm,Score,Extra Training Data,Paper title,Date,Game
+MuZero (Res2 Adam),171673,False,,2021-04-13,riverraid
+Advantage Learning,-4.15,False,,,surround
+Persistent AL,0.72,False,,,surround
+Laser Shared Sweep 50M,18635.3,False,,,alien
+Laser Shared Sweep 50M,1838.3,False,,,amidar
+Laser Shared Sweep 50M,26027.1,False,,,assault
+Laser Shared Sweep 50M,496735,False,,,asterix
+Laser Shared Sweep 50M,232651,False,,,asteroids
+Laser Shared Sweep 50M,889934,False,,,atlantis
+Laser Shared Sweep 50M,1333.1,False,,,bank heist
+Laser Shared Sweep 50M,66900,False,,,battle zone
+Laser Shared Sweep 50M,80830.5,False,,,beam rider
+Laser Shared Sweep 50M,46651.6,False,,,berzerk
+Laser Shared Sweep 50M,42.4,False,,,bowling
+Laser Shared Sweep 50M,99.8,False,,,boxing
+Laser Shared Sweep 50M,852.5,False,,,breakout
+Laser Shared Sweep 50M,208008,False,,,centipede
+Laser Shared Sweep 50M,24814,False,,,chopper command
+Laser Shared Sweep 50M,160494,False,,,crazy climber
+Laser Shared Sweep 50M,355447,False,,,defender
+Laser Shared Sweep 50M,133557,False,,,demon attack
+Laser Shared Sweep 50M,0.1,False,,,double dunk
+Laser Shared Sweep 50M,0,False,,,enduro
+Laser Shared Sweep 50M,45.4,False,,,fishing derby
+Laser Shared Sweep 50M,34,False,,,freeway
+Laser Shared Sweep 50M,5297.4,False,,,frostbite
+Laser Shared Sweep 50M,86222.2,False,,,gopher
+Laser Shared Sweep 50M,1360.5,False,,,gravitar
+Laser Shared Sweep 50M,30159.2,False,,,hero
+Laser Shared Sweep 50M,20.2,False,,,ice hockey
+Laser Shared Sweep 50M,21663,False,,,james bond
+Laser Shared Sweep 50M,13932,False,,,kangaroo
+Laser Shared Sweep 50M,9559.3,False,,,krull
+Laser Shared Sweep 50M,65032,False,,,kung fu master
+Laser Shared Sweep 50M,1,False,,,montezuma revenge
+Laser Shared Sweep 50M,6089.3,False,,,ms pacman
+Laser Shared Sweep 50M,25998.9,False,,,name this game
+Laser Shared Sweep 50M,458355,False,,,phoenix
+Laser Shared Sweep 50M,-0.2,False,,,pitfall
+Laser Shared Sweep 50M,21,False,,,pong
+Laser Shared Sweep 50M,100,False,,,private eye
+Laser Shared Sweep 50M,20283.8,False,,,qbert
+Laser Shared Sweep 50M,24138.1,False,,,riverraid
+Laser Shared Sweep 50M,52942,False,,,road runner
+Laser Shared Sweep 50M,63.6,False,,,robotank
+Laser Shared Sweep 50M,1802.2,False,,,seaquest
+Laser Shared Sweep 50M,-8904.8,False,,,skiing
+Laser Shared Sweep 50M,2222.4,False,,,solaris
+Laser Shared Sweep 50M,36071.4,False,,,space invaders
+Laser Shared Sweep 50M,331327,False,,,star gunner
+Laser Shared Sweep 50M,9.8,False,,,surround
+Laser Shared Sweep 50M,0,False,,,tennis
+Laser Shared Sweep 50M,77899,False,,,time pilot
+Laser Shared Sweep 50M,251.8,False,,,tutankham
+Laser Shared Sweep 50M,341988,False,,,up n down
+Laser Shared Sweep 50M,0,False,,,venture
+Laser Shared Sweep 50M,513121,False,,,video pinball
+Laser Shared Sweep 50M,22280,False,,,wizard of wor
+Laser Shared Sweep 50M,145055,False,,,yars revenge
+Laser Shared Sweep 50M,50486,False,,,zaxxon
+Laser Shared Sweep 200M,18277.3,False,,,alien
+Laser Shared Sweep 200M,2695,False,,,amidar
+Laser Shared Sweep 200M,40603.2,False,,,assault
+Laser Shared Sweep 200M,240770,False,,,asterix
+Laser Shared Sweep 200M,257420.1,False,,,asteroids
+Laser Shared Sweep 200M,866584,False,,,atlantis
+Laser Shared Sweep 200M,1712.8,False,,,bank heist
+Laser Shared Sweep 200M,131880,False,,,battle zone
+Laser Shared Sweep 200M,125795.2,False,,,beam rider
+Laser Shared Sweep 200M,64513.1,False,,,berzerk
+Laser Shared Sweep 200M,47.4,False,,,bowling
+Laser Shared Sweep 200M,99.4,False,,,boxing
+Laser Shared Sweep 200M,850.3,False,,,breakout
+Laser Shared Sweep 200M,409702.8,False,,,centipede
+Laser Shared Sweep 200M,727333,False,,,chopper command
+Laser Shared Sweep 200M,88818,False,,,crazy climber
+Laser Shared Sweep 200M,369397,False,,,defender
+Laser Shared Sweep 200M,138000.6,False,,,demon attack
+Laser Shared Sweep 200M,23.5,False,,,double dunk
+Laser Shared Sweep 200M,0,False,,,enduro
+Laser Shared Sweep 200M,62.6,False,,,fishing derby
+Laser Shared Sweep 200M,34,False,,,freeway
+Laser Shared Sweep 200M,2230.8,False,,,frostbite
+Laser Shared Sweep 200M,39721.2,False,,,gopher
+Laser Shared Sweep 200M,2812,False,,,gravitar
+Laser Shared Sweep 200M,36510.6,False,,,hero
+Laser Shared Sweep 200M,38.7,False,,,ice hockey
+Laser Shared Sweep 200M,60402.5,False,,,james bond
+Laser Shared Sweep 200M,14187,False,,,kangaroo
+Laser Shared Sweep 200M,5743.6,False,,,krull
+Laser Shared Sweep 200M,81792,False,,,kung fu master
+Laser Shared Sweep 200M,1,False,,,montezuma revenge
+Laser Shared Sweep 200M,6890.7,False,,,ms pacman
+Laser Shared Sweep 200M,27910.7,False,,,name this game
+Laser Shared Sweep 200M,628711.6,False,,,phoenix
+Laser Shared Sweep 200M,-0.2,False,,,pitfall
+Laser Shared Sweep 200M,21,False,,,pong
+Laser Shared Sweep 200M,100,False,,,private eye
+Laser Shared Sweep 200M,24600.8,False,,,qbert
+Laser Shared Sweep 200M,35491.5,False,,,riverraid
+Laser Shared Sweep 200M,63762,False,,,road runner
+Laser Shared Sweep 200M,67.8,False,,,robotank
+Laser Shared Sweep 200M,557213.3,False,,,seaquest
+Laser Shared Sweep 200M,-8980.1,False,,,skiing
+Laser Shared Sweep 200M,3017.6,False,,,solaris
+Laser Shared Sweep 200M,53124.3,False,,,space invaders
+Laser Shared Sweep 200M,602540,False,,,star gunner
+Laser Shared Sweep 200M,9.8,False,,,surround
+Laser Shared Sweep 200M,0,False,,,tennis
+Laser Shared Sweep 200M,113603,False,,,time pilot
+Laser Shared Sweep 200M,268.5,False,,,tutankham
+Laser Shared Sweep 200M,368586.5,False,,,up n down
+Laser Shared Sweep 200M,0,False,,,venture
+Laser Shared Sweep 200M,397451,False,,,video pinball
+Laser Shared Sweep 200M,45335,False,,,wizard of wor
+Laser Shared Sweep 200M,144370,False,,,yars revenge
+Laser Shared Sweep 200M,106862,False,,,zaxxon
+Laser No Sweep 200M,35565.9,False,,,alien
+Laser No Sweep 200M,1829.2,False,,,amidar
+Laser No Sweep 200M,21560.4,False,,,assault
+Laser No Sweep 200M,240090,False,,,asterix
+Laser No Sweep 200M,213025,False,,,asteroids
+Laser No Sweep 200M,841200,False,,,atlantis
+Laser No Sweep 200M,569.4,False,,,bank heist
+Laser No Sweep 200M,64953.3,False,,,battle zone
+Laser No Sweep 200M,90881.6,False,,,beam rider
+Laser No Sweep 200M,25579.5,False,,,berzerk
+Laser No Sweep 200M,48.3,False,,,bowling
+Laser No Sweep 200M,100,False,,,boxing
+Laser No Sweep 200M,747.9,False,,,breakout
+Laser No Sweep 200M,292792,False,,,centipede
+Laser No Sweep 200M,761699,False,,,chopper command
+Laser No Sweep 200M,167820,False,,,crazy climber
+Laser No Sweep 200M,336953,False,,,defender
+Laser No Sweep 200M,133530,False,,,demon attack
+Laser No Sweep 200M,14,False,,,double dunk
+Laser No Sweep 200M,0,False,,,enduro
+Laser No Sweep 200M,45.2,False,,,fishing derby
+Laser No Sweep 200M,0,False,,,freeway
+Laser No Sweep 200M,5083.5,False,,,frostbite
+Laser No Sweep 200M,114820.7,False,,,gopher
+Laser No Sweep 200M,1106.2,False,,,gravitar
+Laser No Sweep 200M,31628.7,False,,,hero
+Laser No Sweep 200M,17.4,False,,,ice hockey
+Laser No Sweep 200M,37999.8,False,,,james bond
+Laser No Sweep 200M,14308,False,,,kangaroo
+Laser No Sweep 200M,9387.5,False,,,krull
+Laser No Sweep 200M,0.3,False,,,montezuma revenge
+Laser No Sweep 200M,6565.5,False,,,ms pacman
+Laser No Sweep 200M,26219.5,False,,,name this game
+Laser No Sweep 200M,519304,False,,,phoenix
+Laser No Sweep 200M,-0.6,False,,,pitfall
+Laser No Sweep 200M,21,False,,,pong
+Laser No Sweep 200M,96.3,False,,,private eye
+Laser No Sweep 200M,21449.6,False,,,qbert
+Laser No Sweep 200M,40362.7,False,,,riverraid
+Laser No Sweep 200M,45289,False,,,road runner
+Laser No Sweep 200M,62.1,False,,,robotank
+Laser No Sweep 200M,2890.3,False,,,seaquest
+Laser No Sweep 200M,-29968.4,False,,,skiing
+Laser No Sweep 200M,2273.5,False,,,solaris
+Laser No Sweep 200M,51037.4,False,,,space invaders
+Laser No Sweep 200M,321528,False,,,star gunner
+Laser No Sweep 200M,8.4,False,,,surround
+Laser No Sweep 200M,12.2,False,,,tennis
+Laser No Sweep 200M,105316,False,,,time pilot
+Laser No Sweep 200M,278.9,False,,,tutankham
+Laser No Sweep 200M,345727,False,,,up n down
+Laser No Sweep 200M,0,False,,,venture
+Laser No Sweep 200M,511835,False,,,video pinball
+Laser No Sweep 200M,29059.3,False,,,wizard of wor
+Laser No Sweep 200M,166292.3,False,,,yars revenge
+Laser No Sweep 200M,41118,False,,,zaxxon
+Rainbow 200M,9491.7,False,,,alien
+Rainbow 200M,5131.2,False,,,amidar
+Rainbow 200M,14198.5,False,,,assault
+Rainbow 200M,428200,False,,,asterix
+Rainbow 200M,2712.8,False,,,asteroids
+Rainbow 200M,826660,False,,,atlantis
+Rainbow 200M,1358,False,,,bank heist
+Rainbow 200M,62010,False,,,battle zone
+Rainbow 200M,16850.2,False,,,beam rider
+Rainbow 200M,2545.6,False,,,berzerk
+Rainbow 200M,30,False,,,bowling
+Rainbow 200M,99.6,False,,,boxing
+Rainbow 200M,417.5,False,,,breakout
+Rainbow 200M,8167.3,False,,,centipede
+Rainbow 200M,16654,False,,,chopper command
+Rainbow 200M,168788.5,False,,,crazy climber
+Rainbow 200M,55105,False,,,defender
+Rainbow 200M,111185,False,,,demon attack
+Rainbow 200M,-0.3,False,,,double dunk
+Rainbow 200M,2125.9,False,,,enduro
+Rainbow 200M,31.3,False,,,fishing derby
+Rainbow 200M,34,False,,,freeway
+Rainbow 200M,9590.5,False,,,frostbite
+Rainbow 200M,70354.6,False,,,gopher
+Rainbow 200M,1419.3,False,,,gravitar
+Rainbow 200M,55887.4,False,,,hero
+Rainbow 200M,1.1,False,,,ice hockey
+Rainbow 200M,19809,False,,,james bond
+Rainbow 200M,14637.5,False,,,kangaroo
+Rainbow 200M,8741.5,False,,,krull
+Rainbow 200M,52181,False,,,kung fu master
+Rainbow 200M,384,False,,,montezuma revenge
+Rainbow 200M,5380.4,False,,,ms pacman
+Rainbow 200M,13136,False,,,name this game
+Rainbow 200M,108529,False,,,phoenix
+Rainbow 200M,0,False,,,pitfall
+Rainbow 200M,20.9,False,,,pong
+Rainbow 200M,4234,False,,,private eye
+Rainbow 200M,33817.5,False,,,qbert
+Rainbow 200M,22920.8,False,,,riverraid
+Rainbow 200M,62041,False,,,road runner
+Rainbow 200M,61.4,False,,,robotank
+Rainbow 200M,15898.9,False,,,seaquest
+Rainbow 200M,-12957.8,False,,,skiing
+Rainbow 200M,3560.3,False,,,solaris
+Rainbow 200M,18789,False,,,space invaders
+Rainbow 200M,127029,False,,,star gunner
+Rainbow 200M,9.7,False,,,surround
+Rainbow 200M,0,False,,,tennis
+Rainbow 200M,12926,False,,,time pilot
+Rainbow 200M,241,False,,,tutankham
+Rainbow 200M,125755,False,,,up n down
+Rainbow 200M,5.5,False,,,venture
+Rainbow 200M,533936.5,False,,,video pinball
+Rainbow 200M,17862.5,False,,,wizard of wor
+Rainbow 200M,102557,False,,,yars revenge
+Rainbow 200M,22209.5,False,,,zaxxon
+Reactor ND,4199.4,False,,,ALIEN
+Reactor ND,1546.8,False,,,AMIDAR
+Reactor ND,17543.8,False,,,ASSAULT
+Reactor ND,16121,False,,,ASTERIX
+Reactor ND,4467.4,False,,,ASTEROIDS
+Reactor ND,968179.5,False,,,ATLANTIS
+Reactor ND,1236.8,False,,,BANK HEIST
+Reactor ND,98235,False,,,battle zone
+Reactor ND,8811.8,False,,,BEAM RIDER
+Reactor ND,1515.7,False,,,BERZERK
+Reactor ND,59.3,False,,,BOWLING
+Reactor ND,99.7,False,,,BOXING
+Reactor ND,509.5,False,,,BREAKOUT
+Reactor ND,7267.2,False,,,CENTIPEDE
+Reactor ND,19901.5,False,,,CHOPPER COMMAND
+Reactor ND,173274,False,,,CRAZY CLIMBER
+Reactor ND,181074.3,False,,,DEFENDER
+Reactor ND,122782.5,False,,,DEMON ATTACK
+Reactor ND,23,False,,,DOUBLE DUNK
+Reactor ND,2211.3,False,,,ENDURO
+Reactor ND,33.1,False,,,FISHING DERBY
+Reactor ND,22.3,False,,,FREEWAY
+Reactor ND,7136.7,False,,,FROSTBITE
+Reactor ND,36279.1,False,,,GOPHER
+Reactor ND,1804.8,False,,,GRAVITAR
+Reactor ND,27833,False,,,hero
+Reactor ND,15.7,False,,,ICE HOCKEY
+Reactor ND,14524,False,,,james bond
+Reactor ND,13349,False,,,KANGAROO
+Reactor ND,10237.8,False,,,KRULL
+Reactor ND,61621.5,False,,,kung fu master
+Reactor ND,0,False,,,montezuma revenge
+Reactor ND,4416.9,False,,,ms pacman
+Reactor ND,12636.5,False,,,NAME THIS GAME
+Reactor ND,10261.4,False,,,PHOENIX
+Reactor ND,-3.7,False,,,pitfall
+Reactor ND,20.7,False,,,PONG
+Reactor ND,15198,False,,,PRIVATE EYE
+Reactor ND,21222.5,False,,,qbert
+Reactor ND,16957.3,False,,,riverraid
+Reactor ND,66790.5,False,,,ROAD RUNNER
+Reactor ND,71.8,False,,,ROBOTANK
+Reactor ND,5071.6,False,,,SEAQUEST
+Reactor ND,-10632.9,False,,,SKIING
+Reactor ND,2236,False,,,SOLARIS
+Reactor ND,2387.1,False,,,SPACE INVADERS
+Reactor ND,48942,False,,,star gunner
+Reactor ND,0.9,False,,,SURROUND
+Reactor ND,23.4,False,,,TENNIS
+Reactor ND,18871.5,False,,,TIME PILOT
+Reactor ND,263.2,False,,,TUTANKHAM
+Reactor ND,194989.5,False,,,up n down
+Reactor ND,0,False,,,VENTURE
+Reactor ND,261720.2,False,,,VIDEO PINBALL
+Reactor ND,18484,False,,,WIZARD OF WOR
+Reactor ND,109607.5,False,,,yars revenge
+Reactor ND,16525,False,,,ZAXXON
+Reactor,6482.1,False,,,ALIEN
+Reactor,833,False,,,AMIDAR
+Reactor,11013.5,False,,,ASSAULT
+Reactor,36238.5,False,,,ASTERIX
+Reactor,2780.4,False,,,ASTEROIDS
+Reactor,308258,False,,,ATLANTIS
+Reactor,988.7,False,,,BANK HEIST
+Reactor,61220,False,,,battle zone
+Reactor,8566.5,False,,,BEAM RIDER
+Reactor,1641.4,False,,,BERZERK
+Reactor,75.4,False,,,BOWLING
+Reactor,99.4,False,,,BOXING
+Reactor,518.4,False,,,BREAKOUT
+Reactor,3402.8,False,,,CENTIPEDE
+Reactor,37568,False,,,CHOPPER COMMAND
+Reactor,194347,False,,,CRAZY CLIMBER
+Reactor,113128,False,,,DEFENDER
+Reactor,100189,False,,,DEMON ATTACK
+Reactor,11.4,False,,,DOUBLE DUNK
+Reactor,2230.1,False,,,ENDURO
+Reactor,23.2,False,,,FISHING DERBY
+Reactor,31.4,False,,,FREEWAY
+Reactor,8042.1,False,,,FROSTBITE
+Reactor,69135.1,False,,,GOPHER
+Reactor,1073.8,False,,,GRAVITAR
+Reactor,35542.2,False,,,hero
+Reactor,3.4,False,,,ice hockey
+Reactor,7869.2,False,,,james bond
+Reactor,10484.5,False,,,KANGAROO
+Reactor,9930.8,False,,,KRULL
+Reactor,59799.5,False,,,kung fu master
+Reactor,2643.5,False,,,montezuma revenge
+Reactor,2724.3,False,,,ms pacman
+Reactor,9907.2,False,,,NAME THIS GAME
+Reactor,40092.2,False,,,PHOENIX
+Reactor,-3.5,False,,,pitfall
+Reactor,20.7,False,,,PONG
+Reactor,15177.1,False,,,PRIVATE EYE
+Reactor,22956.5,False,,,qbert
+Reactor,16608.3,False,,,riverraid
+Reactor,71168,False,,,ROAD RUNNER
+Reactor,68.5,False,,,ROBOTANK
+Reactor,8425.8,False,,,SEAQUEST
+Reactor,-10753.4,False,,,SKIING
+Reactor,2760,False,,,SOLARIS
+Reactor,2448.6,False,,,SPACE INVADERS
+Reactor,70038,False,,,star gunner
+Reactor,6.7,False,,,SURROUND
+Reactor,23.3,False,,,TENNIS
+Reactor,19401,False,,,TIME PILOT
+Reactor,272.6,False,,,TUTANKHAM
+Reactor,64354.2,False,,,up n down
+Reactor,1597.5,False,,,VENTURE
+Reactor,469366,False,,,VIDEO PINBALL
+Reactor,13170.5,False,,,WIZARD OF WOR
+Reactor,102760,False,,,yars revenge
+Reactor,25215.5,False,,,ZAXXON
+Random,227.75,,,,alien
+Random,5.77,,,,amidar
+Random,222.39,,,,assault
+Random,210,,,,asterix
+Random,719.1,,,,asteroids
+Random,12850,,,,atlantis
+Random,14.2,,,,bank heist
+Random,2360,,,,battle zone
+Random,363.88,,,,beam rider
+Random,123.65,,,,berzerk
+Random,23.11,,,,bowling
+Random,0.05,,,,boxing
+Random,1.72,,,,breakout
+Random,2090.87,,,,centipede
+Random,811,,,,chopper command
+Random,10780.5,,,,crazy climber
+Random,2874.5,,,,defender
+Random,152.07,,,,demon attack
+Random,-18.55,,,,double dunk
+Random,0,,,,enduro
+Random,-91.71,,,,fishing derby
+Random,0.01,,,,freeway
+Random,65.2,,,,frostbite
+Random,257.6,,,,gopher
+Random,173,,,,gravitar
+Random,1026.97,,,,hero
+Random,-11.15,,,,ice hockey
+Random,29,,,,James bond
+Random,52,,,,kangaroo
+Random,1598.05,,,,krull
+Random,258.5,,,,kung fu master
+Random,0,,,,montezuma revenge
+Random,307.3,,,,ms pacman
+Random,2292.35,,,,name this game
+Random,761.4,,,,phoenix
+Random,-229.44,,,,pitfall
+Random,-20.71,,,,pong
+Random,24.94,,,,private eye
+Random,163.88,,,,qbert
+Random,1338.5,,,,riverraid
+Random,11.5,,,,road runner
+Random,2.16,,,,robotank
+Random,68.4,,,,seaquest
+Random,-17098.09,,,,skiing
+Random,1236.3,,,,solaris
+Random,148.3,,,,space invaders
+Random,664,,,,star gunner
+Random,-23.84,,,,tennis
+Random,3568,,,,time pilot
+Random,11.43,,,,tutankham
+Random,533.4,,,,up n down
+Random,0,,,,venture
+Random,0,,,,video pinball
+Random,563.5,,,,wizard of wor
+Random,3092.91,,,,yars revenge
+Random,32.5,,,,zaxxon
+Random,-9.99,,,,surround
+Human,7127.7,,,,alien
+Human,1719.5,,,,amidar
+Human,742,,,,assault
+Human,8503.3,,,,asterix
+Human,47388.7,,,,asteroids
+Human,29028.1,,,,atlantis
+Human,753.1,,,,bank heist
+Human,37187.5,,,,battle zone
+Human,16926.5,,,,beam rider
+Human,2630.4,,,,berzerk
+Human,160.7,,,,bowling
+Human,12.1,,,,boxing
+Human,30.5,,,,breakout
+Human,12017,,,,centipede
+Human,7387.8,,,,chopper command
+Human,35829.4,,,,crazy climber
+Human,18688.9,,,,defender
+Human,1971,,,,demon attack
+Human,-16.4,,,,double dunk
+Human,860.5,,,,enduro
+Human,-38.7,,,,fishing derby
+Human,29.6,,,,freeway
+Human,4334.7,,,,frostbite
+Human,2412.5,,,,gopher
+Human,3351.4,,,,gravitar
+Human,30826.4,,,,hero
+Human,0.9,,,,ice hockey
+Human,302.8,,,,James bond
+Human,3035,,,,kangaroo
+Human,2665.5,,,,krull
+Human,22736.3,,,,kung fu master
+Human,4753.3,,,,montezuma revenge
+Human,6951.6,,,,ms pacman
+Human,8049,,,,name this game
+Human,7242.6,,,,phoenix
+Human,6463.7,,,,pitfall
+Human,14.6,,,,pong
+Human,69571.3,,,,private eye
+Human,13455,,,,qbert
+Human,17118,,,,riverraid
+Human,7845,,,,road runner
+Human,11.9,,,,robotank
+Human,42054.7,,,,seaquest
+Human,-4336.9,,,,skiing
+Human,12326.7,,,,solaris
+Human,1668.7,,,,space invaders
+Human,10250,,,,star gunner
+Human,-8.3,,,,tennis
+Human,5229.2,,,,time pilot
+Human,167.6,,,,tutankham
+Human,11693.2,,,,up n down
+Human,1187.5,,,,venture
+Human,17667.9,,,,video pinball
+Human,4756.5,,,,wizard of wor
+Human,54576.9,,,,yars revenge
+Human,9173.3,,,,zaxxon
+Human,6.53,,,,surround
+FirstReturn,959312,,,,Alien
+FirstReturn,19083,,,,Amidar
+FirstReturn,30773,,,,Assault
+FirstReturn,999500,,,,Asterix
+FirstReturn,112952,,,,Asteroids
+FirstReturn,286460,,,,Atlantis
+FirstReturn,3668,,,,bank heist
+FirstReturn,998800,,,,battle zone
+FirstReturn,371723,,,,beam rider
+FirstReturn,131417,,,,Berzerk
+FirstReturn,247,,,,Bowling
+FirstReturn,91,,,,Boxing
+FirstReturn,774,,,,Breakout
+FirstReturn,613815,,,,Centipede
+FirstReturn,996220,,,,chopper command
+FirstReturn,235600,,,,crazy climber
+FirstReturn,239895,,,,demon attack
+FirstReturn,24,,,,double dunk
+FirstReturn,1031,,,,Enduro
+FirstReturn,67,,,,fishing derby
+FirstReturn,34,,,,Freeway
+FirstReturn,999990,,,,Frostbite
+FirstReturn,134244,,,,Gopher
+FirstReturn,13385,,,,Gravitar
+FirstReturn,37783,,,,Hero
+FirstReturn,33,,,,ice hockey
+FirstReturn,200810,,,,James bond
+FirstReturn,24300,,,,Kangaroo
+FirstReturn,63149,,,,Krull
+FirstReturn,24320,,,,kung fu master
+FirstReturn,24758,,,,montezuma revenge
+FirstReturn,456123,,,,ms pacman
+FirstReturn,212824,,,,name this game
+FirstReturn,19200,,,,Phoenix
+FirstReturn,7875,,,,Pitfall
+FirstReturn,21,,,,Pong
+FirstReturn,69976,,,,private eye
+FirstReturn,999975,,,,Qbert
+FirstReturn,35588,,,,Riverraid
+FirstReturn,999900,,,,road runner
+FirstReturn,143,,,,Robotank
+FirstReturn,539456,,,,Seaquest
+FirstReturn,-4185,,,,Skiing
+FirstReturn,20306,,,,Solaris
+FirstReturn,93147,,,,space invaders
+FirstReturn,609580,,,,star gunner
+FirstReturn,24,,,,Tennis
+FirstReturn,183620,,,,time pilot
+FirstReturn,528,,,,Tutankham
+FirstReturn,553718,,,,up n down
+FirstReturn,3074,,,,Venture
+FirstReturn,999999,,,,video pinball
+FirstReturn,199900,,,,wizard of wor
+FirstReturn,999998,,,,yars revenge
+FirstReturn,18340,,,,Zaxxon
